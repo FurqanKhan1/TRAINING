@@ -1,4 +1,4 @@
-# TRAINING-DU
+# TRAINING
 ## Welcome to all Training Content.##
 
 ### Please Download the HR template below and fill the relevent sections. Once filled email it to xxx@y.com ###
